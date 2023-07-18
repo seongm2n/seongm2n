@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=df4f25">
   <img src="https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=Firebase&color=FFCA28">
   <!-- <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624"> -->
+
+  <!-- <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
+   -->
 </p>
 <br>
 <p>
