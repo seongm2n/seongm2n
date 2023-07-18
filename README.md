@@ -1,9 +1,9 @@
-<div align=left>
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hi%20I%20am%20Seongmin&fontSize=70)
 
 <br>
-<p align=center>
+<p>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
@@ -22,11 +22,16 @@
   <!-- <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624"> -->
 </p>
 
----
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+</p>
 
 <br>
-<p >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=light">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=light">
+<p align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=flag-india">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=flag-india">
 </p>
 </div>
