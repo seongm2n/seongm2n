@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hi%20I%20am%20Seongmin&fontSize=70)
 
-<br>
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=Firebase&color=FFCA28">
   <!-- <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624"> -->
 </p>
-
+<br>
 <p>
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
