@@ -35,6 +35,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=darcula">
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer) -->
 
 </div>
