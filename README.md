@@ -31,7 +31,7 @@
 
 <br>
 <p align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=flag-india">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=flag-india">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=flag">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=flag">
 </p>
 </div>
