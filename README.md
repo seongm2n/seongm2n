@@ -2,54 +2,31 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hi%20I%20am%20Seongmin&fontSize=70)
 
-## About
-
-## Stacks
-
----
-
 <br>
-<div> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
+<p align=center>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
   <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6"> 
+  <img src="https://img.shields.io/badge/Stlye-PostCSS-informational?style=flat&logo=postcss&color=DD3A0A"> 
+  <img src="https://img.shields.io/badge/Stlye-Tailwind CSS-informational?style=flat&logo=postcss&color=06B6D4"> 
+   <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
   <br>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/react qurey-FF4154?style=for-the-badge&logo=react query&logoColor=black"> 
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
-  <br>
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <br>
-   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
-<br>
-<br>
-
-## Studying
-
-## Stats
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
+  <!-- <img src="https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=Vite&color=646cff"> -->
+  <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
+  <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=df4f25">
+  <img src="https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=Firebase&color=FFCA28">
+  <!-- <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624"> -->
+</p>
 
 ---
 
 <br>
 <p >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=onedark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seongm2n&show_icons=true&theme=light">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=light">
 </p>
 </div>
