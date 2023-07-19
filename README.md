@@ -10,7 +10,7 @@
   <br>
   <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6"> 
   <img src="https://img.shields.io/badge/Stlye-PostCSS-informational?style=flat&logo=postcss&color=DD3A0A"> 
-  <img src="https://img.shields.io/badge/Stlye-Tailwind CSS-informational?style=flat&logo=postcss&color=06B6D4"> 
+  <img src="https://img.shields.io/badge/Stlye-Tailwind CSS-informational?style=flat&logo=tailwindcss&color=06B6D4"> 
    <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
   <br>
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
