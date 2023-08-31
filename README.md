@@ -31,8 +31,8 @@
 
 <br>
 <p align=center>
-  <img height="180em" src="https://github-readme-stats-nu-three-50.vercel.app/api/?username=seongm2n&show_icons=true&theme=flag-india">
-  <img height="180em" src="https://github-readme-stats-nu-three-50.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=flag-india">
+  <img height="180em" src="https://github-readme-stats-hy3st049b-seongm2n.vercel.app/api/?username=seongm2n&show_icons=true&theme=flag-india">
+  <img height="180em" src="https://github-readme-stats-hy3st049b-seongm2n.vercel.app/api/top-langs/?username=seongm2n&layout=compact&theme=flag-india">
 </p>
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer) -->
